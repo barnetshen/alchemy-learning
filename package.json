@@ -1,0 +1,29 @@
+{
+  "name": "BuyMeACoffee-Solidity-DeFi-Tipping-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barnetshen/alchemy-learning.git"
+  },
+  "keywords": [],
+  "author": "barnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barnetshen/alchemy-learning/issues"
+  },
+  "homepage": "https://github.com/barnetshen/alchemy-learning#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.10.2",
+    "next": "^12.2.5",
+    "react": "^18.2.0"
+  }
+}
